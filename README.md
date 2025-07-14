@@ -135,7 +135,6 @@ GCP Associate Cloud Engineer
 
 Azure Fundamentals
 
-
 Contact
 Email: harshmighlani@gmail.com
 
